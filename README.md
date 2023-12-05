@@ -6,7 +6,7 @@ Modos da calculadora
 Itens usados apra a execução:
 
     Matematica
-    Condicional de polha
+    Condicional de pilha
     Pilha de numeros
     Estrutura de repetição
     Estrutura de condicional
